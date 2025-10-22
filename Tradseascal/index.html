@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+  <title>Fijian Lunar Calendar</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1 class="calendar-title">Traditional Fijian Lunar and Seasonal Calendar</h1>
+
+
+  <div class="calendar-grid">
+    <div class="month-card" onclick="activateMonth('January')"> January  <br> 
+      VULA I NUQA LEVU </div>
+    <div class="month-card" onclick="activateMonth('February')">February <br>
+     VULA I SEVU</div>
+    <div class="month-card" onclick="activateMonth('March')">March <br>
+    VULA I KELIKELI</div>
+    <div class="month-card" onclick="activateMonth('April')">April <br>
+    VULA I GASAU</div>
+    <div class="month-card" onclick="activateMonth('May')">May <br>
+    VULA I DOI</div>
+    <div class="month-card" onclick="activateMonth('June')">June <br>
+     VULA I WEREWERE</div>
+    <div class="month-card" onclick="activateMonth('July')">July <br>
+    VULA I CUKICUKI</div>
+    <div class="month-card" onclick="activateMonth('August')">August <br>
+     VULA I SENIDRALA</div>
+    <div class="month-card" onclick="activateMonth('September')">September <br>
+    VULA I VAVAKADA</div>
+    <div class="month-card" onclick="activateMonth('October')"> October <br>
+    VULA I BALOLO LAILAI</div>
+    <div class="month-card" onclick="activateMonth('November')">November <br>
+    VULA I BALOLO LEVU</div>
+    <div class="month-card" onclick="activateMonth('December')">December <br>
+    VULA I NUQA LAILAI/VULA I TABU LACA/ VIVILACA</div>
+  </div>
+
+  <div class="month-detail hidden">
+    <button class="back-button" onclick="goBackToGrid()">«</button>
+    <div class="month-expanded" id="monthTitle">Month Name</div>
+    <div class="flip-card-panel"></div>
+  </div>
+
+  <script src="script.js"></script>
+<br>
+<br>
+
+
+
+
+<button id="backToTop" onclick="scrollToTop()">↑ Back to Top</button>
+
+<footer class="calendar-footer sticky-footer">
+  Compiled by Marika Radua PG Dip AGR (Hort) – &copy; Soqosoqo Vakamarama iTaukei Cakaudrove (2025)
+</footer>
+
+
+</body>
+</html>

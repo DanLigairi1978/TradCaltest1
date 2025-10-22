@@ -1,0 +1,392 @@
+{
+  "January": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Se tiko na Nuqanuqa/Nukanuka ka vakatakilakila ni sa cabe na nuqa</li><li>Damanu/Tamanu</li><li>Lagakali, buaniviti, caucau, makosoi</li><li>Vua ni dawa, wi, maqo, uto, weleti, jaina, tarawau, kavika, painapiu, ivi</li><li>Draudrau tiko na bele sikau, rourou, ota</li><li>Matua tiko na dalo ni vuci vakabibi na dalo dina ni viti</li></ul>",
+      "imageUrl": "img/jan1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Levu na Nuqa (Rabbit fish)</li><li>Dere neke na Lairo</li><li>Levu na vivili</li><li>Vakaluveni na saqa, walu</li><li>Levu na kaikoso, kukusau, kolakola Tadruku, bosucu, Drose</li></ul>",
+      "imageUrl": "img/jan2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Gauna ni Tuna/Duna (drule)</li><li>Sici – Habihabi, Ohi, Mo’omo’o, o’u</li><li>Ika ni waidroka – Bali se, Bali Tabua, Bali somo, Yavaya, Malea, Lova</li></ul>",
+      "imageUrl": "img/jan3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<ul><li>Gauna vinaka ni tei – Dalo ni tana, Dalo ni vuci, Vudi, Jaina, Tivoli</li><li>Teivaki na bele, rourou, karisi, ota</li><li>Vakarau na vuci me teivaki</li></ul>",
+      "imageUrl": "img/jan4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Tekivu me basika na draki se na vula i matumatua</p>",
+      "imageUrl": "img/jan5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Matua na tei ni vuci, dalo, bele, rourou me vakamuria na ramani ni vula</p>",
+      "imageUrl": "img/jan6.jpg"
+    }
+  ],
+  "February": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Sevu nai tei ni yabaki</li><li>Keli tiko na Uvi taumada me i sevu</li><li>Matua tiko na Dalo ni were, Dalo ni tana, Tivoli</li><li>Tekivu tara na lololo/valevale mai veikau</li><li>Se na dakua/tahua salusalu</li><li>Matua e levu na kau vuata – wi, moli, ivi, dawa, moli kana</li><li>Drau ni dalo, bele, nuve</li></ul>",
+      "imageUrl": "img/feb1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Levu na vivili kei na sasalu ni waitui – kaikoso, kukusau, kolakola Tadruku, bosucu, drose</li><li>Levu na voro, malevu, kabatia, kawakawa, donu, soisoi</li></ul>",
+      "imageUrl": "img/feb2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Ika ni waidaranu/waidroka – Sesere, Malea, Lova</li><li>Bali se, Bali Tabua/A’bua</li><li>Vivili ni waidranu/waidroka – O’hi, Mo’omo’o, Asi</li></ul>",
+      "imageUrl": "img/feb3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Gauna ni teivaki ni bele, rourou, Tivoli, Dalo ni tana</p>",
+      "imageUrl": "img/feb4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Basika tiko na draki ni matumatua</p>",
+      "imageUrl": "img/feb5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Ni matumatua na vanua, ena matumatua talega na wai</p>",
+      "imageUrl": "img/feb6.jpg"
+    }
+  ],
+  "March": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Keli na Uvi taumada</li><li>Tara na Lololo/Valevale</li><li>Se na Yaka, Yalu, Tokatolu/Drautolu</li><li>Matua na vutu, ivi</li><li>Tekivu se na Gasau</li></ul>",
+      "imageUrl": "img/mar1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Levu na vivili kei na sasalu ni waitui</li><li>Qari, mana, kuka, qarivasa</li><li>Kumukumuni na dilio</li><li>Lailai na ika</li><li>Tekivu cabe na Tugadra/U’gadra</li></ul>",
+      "imageUrl": "img/mar2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Tawa tiko na wai ena Duana/Tuna</li><li>Sesere/Koli tagine</li><li>Bali se, Bali loa, Bali sika</li><li>Sici – O’hi, Habi</li></ul>",
+      "imageUrl": "img/mar3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Tei na Uvi taumada</p>",
+      "imageUrl": "img/mar4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Draki ni kelikeli</p>",
+      "imageUrl": "img/mar5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Vakarau na tei ni Uvi, Tivoli, bele</p>",
+      "imageUrl": "img/mar6.jpg"
+    }
+  ],
+
+  "April": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Se ka leu na gasau</li><li>Levu na lago – milamila, cika, karokaro, coka</li><li>Se na kaudamu, Damanu/Tamanu, Mako/Maho</li><li>Se na duruka kei na vico</li><li>Keli tiko na Uvi leleka</li><li>Matua na uto</li><li>Se na dilo</li></ul>",
+      "imageUrl": "img/apr1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Levu na tugadra, daniva, salala, sara</li><li>Levu na drevula kei na veimataqali vivili</li><li>E daba na qari, mana, kuka</li></ul>",
+      "imageUrl": "img/apr2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>O’hi, Habi, Asi</li><li>Bali tabuba, Bali loa, Bali se</li></ul>",
+      "imageUrl": "img/apr3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Tekivu na bucibucini – kakana draudrau</p>",
+      "imageUrl": "img/apr4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Draki ni vula i Gasau</p>",
+      "imageUrl": "img/apr5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Teivaki na duruka, vico, bele, rourou</p>",
+      "imageUrl": "img/apr6.jpg"
+    }
+  ],
+  "May": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Se na Doi</li><li>Vua na Vesi leka, Yasiyasi</li><li>Matua na Uvi leka, Uvi ni veikau</li><li>Matua na Duruka kei na Vico</li><li>Tekivu bota na kawai</li><li>Se na kavika</li><li>Bota/Matua Rauva, Via, Yabia</li><li>Draki vakabona ni duruka/gasau</li><li>Gagi ni Doi – vakatakilakila ni veitosoyaki e wai</li></ul>",
+      "imageUrl": "img/may1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Tukuni ni dau Drava na watui</li><li>Cabe na Salala, Tugadra</li><li>Levu na Civa, Vula, Dairo</li><li>Kadrekadre na Lumi kei na Nama</li><li>Tekivu basika na Daniva kei na Sara</li><li>Cabe na Ogo, Walu, Saqa</li></ul>",
+      "imageUrl": "img/may2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Bali A’bua/Tabua, Bali loa</li><li>Tawa na kai kei na sici ni waidrika/waidranu</li><li>Mata ba, Yavaya</li></ul>",
+      "imageUrl": "img/may3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<ul><li>Tei’vu</li><li>Tekivu me samaki/tavaki na were ni yabaki</li><li>Talatalaci – kakana draudrau</li></ul>",
+      "imageUrl": "img/may4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Vula i Biri Laca – draki batabata mamaca</p>",
+      "imageUrl": "img/may5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Teivaki na Uvi, Duruka, Vico, bele</p>",
+      "imageUrl": "img/may6.jpg"
+    }
+  ],
+  "June": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Tekivu na werewere</li><li>Tei na uvi taumada</li><li>Vua na dilo, Dakua/Tahua salusalu</li><li>Se na kavika</li><li>Matua na kawai, Uvi ni veikau</li><li>Vua na Yasiyasi, Vesi leka</li><li>Matua tiko na Kawa</li></ul>",
+      "imageUrl": "img/jun1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Vakaluveni na kawakawa, donu – tekivu na vakatatabu</li><li>Levu na Matu, Salala, Tugadra, Daniva</li><li>Levu na Walu, Ogo, Saqa</li><li>Levu na Nama, Lumi, Urau</li><li>Matua na Ugavule</li><li>Laurai na Tovuto</li><li>Vakayaloka na Vonu</li><li>Sucu walu</li></ul>",
+      "imageUrl": "img/jun2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Ura, Mataba</li><li>Tawa/matua na kai kei na sici ni waidroka</li><li>Bali sika, Bali se, Bali uvu, Yavaya, Bali tabua, Tei’a</li></ul>",
+      "imageUrl": "img/jun3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<ul><li>Tekivu tei na were/tei ni yabaki</li><li>Tavaki/Samaki vakarau tiko na were</li></ul>",
+      "imageUrl": "img/jun4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Draki ni vula i Werewere</p>",
+      "imageUrl": "img/jun5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Teivaki na Uvi, bele, rourou, Tivoli</p>",
+      "imageUrl": "img/jun6.jpg"
+    }
+  ],
+  
+  "July": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Se na Moivi</li><li>Bota na Leqileqi, Tavola, Sinu, Wi</li><li>Se na maqo, kavika, moli</li><li>Cukicuki ka tei na uvi</li><li>Teri talega na dalo ni were</li><li>Se na vadra, vasili</li><li>Matua/Bota na Kawai, Drove/Drose, Cago, Ginger</li><li>Matua na Rauva</li></ul>",
+      "imageUrl": "img/jul1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Basika na kuita</li><li>Levu na Matu, Salala, Tugadra, Kanace</li><li>Vakaluveni na kawakawa, kerakera, donu</li><li>Levu na Ose, daniva, Ogo, Saqa, Walu</li><li>Vakayaloka na vonu</li><li>Laurai na Tovuto</li></ul>",
+      "imageUrl": "img/jul2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Tawa tiko na Kai kei na Sici – Toki, Motomoto, Abiabi</li><li>Ura</li><li>Sesere, Koli tagane, Asi, Bali tabua, Bali uvu, Bali se, Tei’a</li></ul>",
+      "imageUrl": "img/jul3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Tei na uvi, bele, rourou, Tivoli, kawai</p>",
+      "imageUrl": "img/jul4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Draki ni vula i Cukicuki</p>",
+      "imageUrl": "img/jul5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Teivaki na bele, rourou, kawai, dalo ni were</p>",
+      "imageUrl": "img/jul6.jpg"
+    }
+  ],
+  "August": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Se na Drala</li><li>Se na Damanu, Kauceuti</li><li>Vua na Tiri, Vaivai ni valagi</li><li>Matua na Ginger, Drove/Drose, Cago, Cagolaya</li><li>Kuruvaki tiko na drau ni Wi kei na Tavola</li></ul>",
+      "imageUrl": "img/aug1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Levu na kuita</li><li>Qolivi na Vaya</li><li>Vakaluveni tiko na kawakawa kei na donu</li><li>Levu na vaya, matu</li><li>Veibaleti na vonu</li></ul>",
+      "imageUrl": "img/aug2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Ika droka – Yavaya, Bali se, Bali sika, Bali tabua</li><li>Abi, Ura</li></ul>",
+      "imageUrl": "img/aug3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Tei na uvi, kawai, bele, rourou, Tavola</p>",
+      "imageUrl": "img/aug4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Draki ni vula i Senidrala</p>",
+      "imageUrl": "img/aug5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Teivaki na Tavola, Wi, bele, rourou</p>",
+      "imageUrl": "img/aug6.jpg"
+    }
+  ],
+  "September": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Tekivu kadre na uvi – gadreva me vakadavi ena gasau/kau</li><li>Dau caka na veitiqa ni sa tei oti na tei ni yabaki</li><li>Se na maqo, drala, wadamu</li><li>Se na buaniviti, mokosoi</li><li>Se na Leba</li><li>Sola na Via</li></ul>",
+      "imageUrl": "img/sep1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Vakaluveni tiko na donu kei na kawakawa</li><li>Luve na yate ni Veata</li><li>Levu tiko na kuita</li><li>Basika na dilio (golden plover)</li></ul>",
+      "imageUrl": "img/sep2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Sesere, Yalu, Yavaya, Bali loa, Yalu</li><li>Ukaka, Habi, Ohi, Asiasi</li></ul>",
+      "imageUrl": "img/sep3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Tei na uvi kadre, Tavola, bele, rourou, kawai</p>",
+      "imageUrl": "img/sep4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Draki ni vula i Vavakada</p>",
+      "imageUrl": "img/sep5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Vakarautaki na vatavata ni uvi, teivaki na bele, rourou, Tavola</p>",
+      "imageUrl": "img/sep6.jpg"
+    }
+  ],
+  "October": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Matua na uto</li><li>Vua ni vesi</li><li>Se na mokosoi, misimisi</li><li>Tei na kawai</li><li>Mago na layalaya/cagolaya</li><li>Se na kavika, dawa</li><li>Draudrau na tavola</li><li>Matua na Rauva, pea kana (avocado), Dabi</li><li>Se na Buabua, Bua-ni-viti</li></ul>",
+      "imageUrl": "img/oct1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Ta na balolo ena so na vanua</li><li>Dau gaga eso na ika</li><li>Se basika na dilio (golden plover)</li></ul>",
+      "imageUrl": "img/oct2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>O’u, Walagi, Ukaka, Yalu, Habi, O’hi</li><li>Bali loa, Bali tabua, Yavaya, Saruma, Sesere</li></ul>",
+      "imageUrl": "img/oct3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Tei na kawai, bele, rourou, Tavola</p>",
+      "imageUrl": "img/oct4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Vula i Balolo Lailai – draki ni balolo</p>",
+      "imageUrl": "img/oct5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Teivaki na Tavola, kawai, bele, rourou</p>",
+      "imageUrl": "img/oct6.jpg"
+    }
+  ],
+  "November": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Vua na maqo, painapiu, kavika, dawa, vutu</li><li>Vua na misimisi</li><li>Vua na Moivi, se na Tomanu</li><li>Dreu na Kavika</li><li>Tekivu matua na Maqo, Vainaviu/Vadra</li></ul>",
+      "imageUrl": "img/nov1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Ta na balolo ena so na vanua</li><li>Dau gaga eso na ika</li><li>Momona na lairo kei na qari</li><li>Levu na walu</li><li>Tawa na Qari, Lairo</li></ul>",
+      "imageUrl": "img/nov2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Tekalou, Ulavutu, Loro, Koli tagine, Vaya/Sesere, Mataba</li><li>Bali sika, Motomoto, Moo’moo’, Ohi, Habi, Tei’ya</li><li>Vakaluveni na Yavaya, Bali tabua, Bali loa</li></ul>",
+      "imageUrl": "img/nov3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Keli na Vurai, tei tale ga na Vurai</p>",
+      "imageUrl": "img/nov4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "<p>Vula i Balolo Levu – draki ni balolo</p>",
+      "imageUrl": "img/nov5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Teivaki na Vurai, bele, rourou, Tavola</p>",
+      "imageUrl": "img/nov6.jpg"
+    }
+  ],
+  "December": [
+    {
+      "title": "Kakana & Kau Vuata",
+      "backText": "<ul><li>Se na Nuqanuqa, buabua, sekoula, kuasi, sinu</li><li>Matua na maqo, kavika, dawa</li><li>Matua/Dreu tiko na painapiu</li><li>Se na Sinukakala</li><li>Dreu na Leba</li></ul>",
+      "imageUrl": "img/dec1.jpg"
+    },
+    {
+      "title": "Ika & Sasalu",
+      "backText": "<ul><li>Levu na nuqa/volaca</li><li>Vakaluveni na saqa</li><li>Veibaleti na vonu</li><li>Vakaluveni na qio</li><li>Levu na lairo</li><li>Vakaluveni na walu, saqa</li></ul>",
+      "imageUrl": "img/dec2.jpg"
+    },
+    {
+      "title": "Veika e yaco e Uciwai",
+      "backText": "<ul><li>Bali se, Lora, Koli tagine, Bali loa, Yavaya, Ukaka, Asiasi</li><li>A’bi/Habi</li></ul>",
+      "imageUrl": "img/dec3.jpg"
+    },
+    {
+      "title": "Itei e rawa ni dau teivaki",
+      "backText": "<p>Tei na painapiu, kavika, buabua, bele, rourou</p>",
+      "imageUrl": "img/dec4.jpg"
+    },
+    {
+      "title": "Draki dau namaki",
+      "backText": "",
+      "imageUrl": "img/dec5.jpg"
+    },
+    {
+      "title": "Teitei ka vakamuria na rama ni vula",
+      "backText": "<p>Teivaki na painapiu, buabua, kavika, bele</p>",
+      "imageUrl": "img/dec6.jpg"
+    }
+  ]
+}
+
+
+
+
